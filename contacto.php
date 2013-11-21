@@ -1,1 +1,1 @@
-<?php gestiona el formulario ?>
+<?php gestionaElFormulario(); ?>
